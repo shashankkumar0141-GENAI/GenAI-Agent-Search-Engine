@@ -3,11 +3,9 @@ langchain-community
 langchain-ollama
 python-dotenv
 langchain_core
-langchain-groq
 langchain
 streamlit
 ipykernel
-langchain-ollama
 langchain-groq
 chromadb
 faiss-cpu
@@ -21,7 +19,6 @@ duckdb
 arxiv
 langchain-text-splitters
 pypdf
-arxiv
 wikipedia
 mysql-connector-python
 SQLAlchemy
@@ -31,7 +28,7 @@ unstructured
 pytube
 numexpr
 duckduckgo-search
-U ddgs
+
 
 
 
