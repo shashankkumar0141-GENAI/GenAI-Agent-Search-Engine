@@ -61,7 +61,7 @@ if prompt := st.chat_input("Ask me anything..."):
     # Initialize LLM (Active Groq Model)
     # -----------------------------
     llm = ChatGroq(
-        api_key=api_key,
+        groq_api_key=api_key,
         model="llama-3.1-8b-instant",  # Active Groq model
         streaming=True
     )
