@@ -1,4 +1,3 @@
-# GenAI-Agent-Search-Engine
 # GEN AI Search Engine using Agents & Tools
 
 This project demonstrates how to build a **GenAI Search Agent** using LangChain and Groq.
