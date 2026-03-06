@@ -31,3 +31,7 @@ The agent can dynamically choose tools like:
 git clone https://github.com/yourusername/genai-agent-search-engine.git
 
 cd genai-agent-search-engine
+
+pip install -r requirements.txt
+
+streamlit run app.py
