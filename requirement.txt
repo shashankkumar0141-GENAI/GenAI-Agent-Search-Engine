@@ -3,6 +3,7 @@ langchain-community
 langchain-ollama
 python-dotenv
 langchain_core
+langchain-groq
 langchain
 streamlit
 ipykernel
@@ -31,5 +32,6 @@ pytube
 numexpr
 duckduckgo-search
 U ddgs
+
 
 
